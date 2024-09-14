@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+
 using namespace std;
 vector<int> v;      // Declared a vector to store the desired serial numbers
 map<string, int> m; // Used ordered map to store a key once adding values of duplicate values
